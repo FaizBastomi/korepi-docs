@@ -30,7 +30,7 @@ Jika pesan pengikatan menunjukkan `Sukses`, Anda telah berhasil mengklaim lisens
 ![](/assets/images/docs/202312/success.png)
 
 ### Langkah 4:
-::: info Jika kamu sudah memiliki `enc.json`, hapus terlebih dahulu sebelum membuka injektor.
+::: info Jika kamu sudah memiliki enc.json, hapus terlebih dahulu sebelum membuka injektor.
 :::
 Jalankan injektor untuk mendapatkan `HWID` Anda, kemudian buka `🔐｜verification` lagi dan klik `Get verification file`, lalu tempelkan `HWID` Anda.
 
